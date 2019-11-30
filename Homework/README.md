@@ -11,3 +11,4 @@ Increment or decrement a number on a display using the joystick
 
 # 4. LCD Menu
 A simple menu for a game that has Start, Setup and HighScore.
+Video link: https://www.youtube.com/watch?v=mqp7ucErcVA&feature=youtu.be
