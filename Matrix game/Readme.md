@@ -26,4 +26,4 @@ As the title suggests, my matrix game is called P O N G.
 - Setup: Here you can change the name of the player and the difficulty of the BOT.
 - Info: Here you can see information about the almighty creator of the game. 
 - HighScore: The highscore is represented by the player who beated the hardest difficulty. If two players beated the highest difficulty, the one who won in the least amount of rounds is displayed.
-- While there is no match going, a "P" is displayed on the matrix ("P" is the first letter of P O N G)
+- While there is no match going, a "P" is displayed on the matrix ("P" is the first character of P O N G)
